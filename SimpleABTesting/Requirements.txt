@@ -9,10 +9,12 @@ Features
 * Experiments to run until a set date
 * Experiments only start after a certain date
 * Stateless / stateful experiments
+* Multiple environments, and experient settings can be changed on a per-environment basis
 * Turn experiments on for:
 	* Percentage of Heys 
 	* All Keys
 	* Specific Keys
+	* Festure Toggles
 * Multiple categories per experiment
 * Result tracking via API
 * JavaScript block for website integration (JSONP to get round XSS issues?)

@@ -1,0 +1,71 @@
+Simple AB Testing - by developers, for developers
+=================================================
+
+Features
+========
+
+* API / UI for setting up experiments
+* Enable / disable experiments
+* Experiments to run until a set date
+* Experiments only start after a certain date
+* Stateless / stateful experiments
+* Turn experiments on for:
+	* Percentage of Heys 
+	* All Keys
+	* Specific Keys
+* Multiple categories per experiment
+* Result tracking via API
+* JavaScript block for website integration (JSONP to get round XSS issues?)
+* Account Management
+	* Change subscription type
+	* Update personal information
+	* Billing / Invoicing - VAT / ex-VAT
+	* Cloud infrastructure provides high availability and resilience
+** Configurable alerting
+	* Email 
+	* SMS
+	* WebHooks
+ 
+ 
+Statistics
+==========
+
+* Data Access
+	* Statistical UI providing graphs
+	* Data extract
+	* API access to data
+* Data to Display
+	* Requests by Experiment
+	* Results by Experiment
+
+
+Access
+======
+
+* Developer mode - FREE
+	* Email address to register
+	* 1 Success experiment and up to 1,000 requests per day
+	* No access to data extract or API statistics
+	* No alerting
+
+* Professional mode - £x per month
+	* Email address to register
+	* 50 experiments and up to 10,000 requests per day per experiment
+	* Full access to statistics
+	* Limited alerts
+
+* Enterprise mode - £x per month
+	* Email address to register
+	* Unlimited experiments and requests
+	* Full access to statistics
+	* Unlimited alerts
+
+	
+Costs
+=====
+
+* Cloud hosting for website
+* Cloud hosting for API 
+* Data storage
+* Helpdesk system
+* SMS Gateway 

@@ -16,6 +16,8 @@ Features
 	* Specific Keys
 	* Festure Toggles
 * Multiple categories per experiment
+* Cached responses in external cache
+* Cache invalidated by experiment changes
 * Result tracking via API
 * JavaScript block for website integration (JSONP to get round XSS issues?)
 * Account Management
@@ -23,7 +25,7 @@ Features
 	* Update personal information
 	* Billing / Invoicing - VAT / ex-VAT
 	* Cloud infrastructure provides high availability and resilience
-** Configurable alerting
+* Configurable alerting
 	* Email 
 	* SMS
 	* WebHooks

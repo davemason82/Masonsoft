@@ -4,6 +4,7 @@ Simple AB Testing - by developers, for developers
 Features
 ========
 
+* PRODUCT NAME!!!
 * API / UI for setting up experiments
 * Enable / disable experiments
 * Experiments to run until a set date
@@ -64,6 +65,20 @@ Access
 	* Full access to statistics
 	* Unlimited alerts
 
+	
+Technical Requirements
+======================
+	
+* Environments 
+	* Development (local Azure)
+	* Testing
+	* Production
+* Continuous Integration
+* Continuous Delivery
+* Database migrations
+* Acceptance testing
+* Hosting decision - Service Fabric?
+* API tech - .NET Core?
 	
 Costs
 =====
